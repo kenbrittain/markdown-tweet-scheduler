@@ -2,7 +2,7 @@ name: Go
 
 on:
   schedule:
-    - cron: '2 14 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   run:
