@@ -1,4 +1,0 @@
-#buildinpublic
-#writing
-#goals
-#okr
